@@ -6,3 +6,5 @@ To this run file, you will need to get the Arduino IDE from : https://www.arduin
 Then connect your arduino to your computer and upload the code. 
 
 You are welcome to modify the code and play with it.
+
+Instructions and kit: http://team1635.org/arduino-robot.html
